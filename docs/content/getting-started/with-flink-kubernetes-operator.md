@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 4
 title: With Flink Kubernetes Operator
 bookHref: "https://nightlies.apache.org/flink/flink-kubernetes-operator-docs-stable/docs/try-flink-kubernetes-operator/quick-start/"
 ---

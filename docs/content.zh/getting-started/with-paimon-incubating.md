@@ -1,7 +1,7 @@
 ---
-weight: 6
-title: With Flink CDC
-bookHref: "https://nightlies.apache.org/flink/flink-cdc-docs-stable/docs/get-started/introduction/"
+weight: 5
+title: With Paimon(incubating) (formerly Flink Table Store)
+bookHref: "https://paimon.apache.org/docs/master/engines/flink/"
 ---
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
@@ -22,6 +22,6 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-# Getting Started with Flink CDC
+# Getting Started with Apache Paimon(incubating) (formerly Flink Table Store)
 
-{{< external_link name="Read how you can get started with Flink CDC here.">}}
+{{< external_link name="Read how you can get started with Apache Paimon(incubating) (formerly Flink Table Store) here.">}}

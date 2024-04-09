@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 2
 title: With Flink Stateful Functions
 bookHref: "https://nightlies.apache.org/flink/flink-statefun-docs-stable/getting-started/project-setup.html"
 ---

@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 6
 title: ML Master (snapshot)
 bookHref: "https://nightlies.apache.org/flink/flink-ml-docs-master"
 ---

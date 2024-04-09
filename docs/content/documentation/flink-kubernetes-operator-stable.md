@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 7
 title: Kubernetes Operator $FlinkKubernetesOperatorStableShortVersion (latest)
 bookHref: "https://nightlies.apache.org/flink/flink-kubernetes-operator-docs-stable/"
 ---
